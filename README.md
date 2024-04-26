@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luke Perry</h1>
+<h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">just a 4th year computer engineering student, nothing much.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeperry&label=Profile%20views&color=0e75b6&style=flat" alt="lukeperry" /> </p>
